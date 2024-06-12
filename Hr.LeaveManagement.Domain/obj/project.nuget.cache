@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/ta7mFyXaHSavzWoy8I6MzV24/lWJGxvFUCB8cIc4ynUazzOEBgCrr03F/Gmw653f/r5KjXeCusRPX99igCww==",
+  "success": true,
+  "projectFilePath": "E:\\LapTrinh\\AspNetCore\\hrCode\\Hr.LeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phamx\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\phamx\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
+    "C:\\Users\\phamx\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
